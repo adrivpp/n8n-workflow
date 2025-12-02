@@ -1,3 +1,0 @@
-/**
- * Style validation rules exports
- */
