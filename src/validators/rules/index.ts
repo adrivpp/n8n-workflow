@@ -3,6 +3,5 @@
  */
 
 // Style validators
-export * from './style';
 
 // Product validators
